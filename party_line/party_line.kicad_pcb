@@ -3523,7 +3523,7 @@
 			(at 0 -0.5 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "b9d7fb65-fb91-4396-af1f-9b327fc5b7e0")
+			(uuid "cdd85966-f667-4767-8766-b2d9d3a8e576")
 			(effects
 				(font
 					(size 1 1)
@@ -3535,7 +3535,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "1b0b9c03-6317-464e-a391-cdd81eef0e39")
+			(uuid "abe5bbdc-45ef-4c35-8438-3c2bbfcd3b4a")
 			(effects
 				(font
 					(size 1 1)
@@ -3548,7 +3548,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1647a79e-4605-4fb5-8851-b567a0b90ecd")
+			(uuid "87836438-0b93-4b81-9a4e-b7d966e31ff6")
 			(effects
 				(font
 					(size 1 1)
@@ -3561,7 +3561,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d30cd1f-5799-4d33-8e1c-21d252cff368")
+			(uuid "87c39690-61ab-4cf9-be09-41c0284f6473")
 			(effects
 				(font
 					(size 1 1)
@@ -8962,7 +8962,7 @@
 			(at 0 -0.5 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "4e8cced3-0c37-4ca4-9305-e04e43010e41")
+			(uuid "29a848fd-639c-4972-bb6b-b198be69e648")
 			(effects
 				(font
 					(size 1 1)
@@ -8974,7 +8974,7 @@
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "40e38b36-19d9-444a-a6cb-2f567f7274f5")
+			(uuid "9529b8ce-7539-4b42-919f-cdc19930c2c7")
 			(effects
 				(font
 					(size 1 1)
@@ -8987,7 +8987,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b552abb3-3c12-4bf3-8cd2-5117d5d47829")
+			(uuid "b759c057-c282-493f-8e6f-bb97cf2dd9b0")
 			(effects
 				(font
 					(size 1 1)
@@ -9000,7 +9000,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a81cc4f-96f4-47b2-86ad-da8e1c509c46")
+			(uuid "c0d95ee7-9d0c-47a0-b31b-e042bfeb685d")
 			(effects
 				(font
 					(size 1 1)
@@ -9593,6 +9593,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f48a68a7-b0e1-4318-9ac8-dc657ec7b3b1")
+	)
+	(gr_text "ERMIS Party Line System\n1.0\nDesign: Spiros Makris\nS/N:"
+		(at 92.964 77.724 0)
+		(layer "F.SilkS")
+		(uuid "9b0737c9-a636-4551-a855-e99d616b7ca3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 146.255 93.98)
